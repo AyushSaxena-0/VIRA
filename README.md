@@ -185,8 +185,8 @@ docker compose up --build
 
 Services:
 
-- Frontend: [http://localhost:5173](http://localhost:5173)
-- Backend: [http://localhost:8000](http://localhost:8000)
+- Frontend: https://vira-two.vercel.app/    (This is demo frontend ,for using it you need to install it on your system 
+- Backend: Shown in video
 - PostgreSQL: `localhost:5432`
 
 ## Production Notes
