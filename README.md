@@ -1,6 +1,8 @@
 # VIRA
 
 VIRA (Virtual Intelligent Review Assistant) is a production-ready AI-powered student evaluation and placement readiness platform with a modern React dashboard and a FastAPI backend.
+<img width="1915" height="835" alt="Screenshot 2026-04-15 210535" src="https://github.com/user-attachments/assets/b8591484-7d74-49e8-aa6f-1165869535cf" />
+
 
 ## Folder Structure
 
