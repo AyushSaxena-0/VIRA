@@ -185,8 +185,11 @@ docker compose up --build
 
 Services:
 
-- Frontend: https://vira-two.vercel.app/    (This is demo frontend ,for using it you need to install it on your system)
-- Backend: Shown in video
+🔗 Frontend: https://vira-two.vercel.app/
+
+⚠️ Note: This is a UI demo. Full functionality (resume analysis, interview simulation) is showcased in the video below.
+
+🎥 Demo Video: [Add Loom Link Here]
 ## Production Notes
 
 - Replace the demo JWT secret before deployment.
