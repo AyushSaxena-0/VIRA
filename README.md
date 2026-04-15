@@ -185,10 +185,8 @@ docker compose up --build
 
 Services:
 
-- Frontend: https://vira-two.vercel.app/    (This is demo frontend ,for using it you need to install it on your system 
+- Frontend: https://vira-two.vercel.app/    (This is demo frontend ,for using it you need to install it on your system)
 - Backend: Shown in video
-- PostgreSQL: `localhost:5432`
-
 ## Production Notes
 
 - Replace the demo JWT secret before deployment.
