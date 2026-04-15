@@ -189,7 +189,7 @@ Services:
 
 ⚠️ Note: This is a UI demo. Full functionality (resume analysis, interview simulation) is showcased in the video below.
 
-🎥 Demo Video: [Add Loom Link Here]
+🎥 Demo Video:https://www.youtube.com/watch?v=vfiPoS9GElo
 ## Production Notes
 
 - Replace the demo JWT secret before deployment.
