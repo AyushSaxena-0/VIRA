@@ -4,12 +4,11 @@ VIRA is an intelligent placement mentor that analyzes resumes, detects skill gap
 
 It doesn’t just score you. It improves you.
 <img width="1915" height="835" alt="Screenshot 2026-04-15 210535" src="https://github.com/user-attachments/assets/b8591484-7d74-49e8-aa6f-1165869535cf" />
-
-
+Screenshot1
 <img width="1917" height="871" alt="Screenshot 2026-04-15 210635" src="https://github.com/user-attachments/assets/90748c19-6db0-424f-bb55-9de2fc8fc46a" />
-
-
+ScreenShot2
 <img width="1902" height="869" alt="Screenshot 2026-04-15 210648" src="https://github.com/user-attachments/assets/5306b97c-5c4c-4d7d-9926-05fdc57a28da" />
+Screenshot3
 ## 🎯 Problem
 
 Students don’t know:
